@@ -16,7 +16,7 @@ from sklearn.model_selection import cross_val_score
 
 
 
-TAMANHO_ST=720
+TAMANHO_ST=180
 
 ##################### Parte II -  Preprocessamento #####################
 
